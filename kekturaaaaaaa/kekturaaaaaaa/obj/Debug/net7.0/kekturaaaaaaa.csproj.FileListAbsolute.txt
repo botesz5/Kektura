@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Majoros Botond\C#\kekturaaaaaaa\kekturaaaaaaa\bin\Debug\net7.0\kekturaaaaaaa.exe
+C:\Users\User\Documents\Majoros Botond\C#\kekturaaaaaaa\kekturaaaaaaa\bin\Debug\net7.0\kekturaaaaaaa.deps.json
+C:\Users\User\Documents\Majoros Botond\C#\kekturaaaaaaa\kekturaaaaaaa\bin\Debug\net7.0\kekturaaaaaaa.runtimeconfig.json
+C:\Users\User\Documents\Majoros Botond\C#\kekturaaaaaaa\kekturaaaaaaa\bin\Debug\net7.0\kekturaaaaaaa.dll
+C:\Users\User\Documents\Majoros Botond\C#\kekturaaaaaaa\kekturaaaaaaa\bin\Debug\net7.0\kekturaaaaaaa.pdb
+C:\Users\User\Documents\Majoros Botond\C#\kekturaaaaaaa\kekturaaaaaaa\obj\Debug\net7.0\kekturaaaaaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Majoros Botond\C#\kekturaaaaaaa\kekturaaaaaaa\obj\Debug\net7.0\kekturaaaaaaa.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Majoros Botond\C#\kekturaaaaaaa\kekturaaaaaaa\obj\Debug\net7.0\kekturaaaaaaa.AssemblyInfo.cs
+C:\Users\User\Documents\Majoros Botond\C#\kekturaaaaaaa\kekturaaaaaaa\obj\Debug\net7.0\kekturaaaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Majoros Botond\C#\kekturaaaaaaa\kekturaaaaaaa\obj\Debug\net7.0\kekturaaaaaaa.dll
+C:\Users\User\Documents\Majoros Botond\C#\kekturaaaaaaa\kekturaaaaaaa\obj\Debug\net7.0\refint\kekturaaaaaaa.dll
+C:\Users\User\Documents\Majoros Botond\C#\kekturaaaaaaa\kekturaaaaaaa\obj\Debug\net7.0\kekturaaaaaaa.pdb
+C:\Users\User\Documents\Majoros Botond\C#\kekturaaaaaaa\kekturaaaaaaa\obj\Debug\net7.0\kekturaaaaaaa.genruntimeconfig.cache
+C:\Users\User\Documents\Majoros Botond\C#\kekturaaaaaaa\kekturaaaaaaa\obj\Debug\net7.0\ref\kekturaaaaaaa.dll
